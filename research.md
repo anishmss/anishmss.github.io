@@ -7,7 +7,7 @@ title: Research
 Research in modern biology relies on a host of experimental techniques which shed light into a variety of phenomena that come together to constitute this amazing thing we call “life”. These experiments generate massive amounts of data, most of which are in the form of strings or sequences. Making sense of these sequences requires, apart from a keen understanding of biology, the ability to employ a range of tools from the arsenal of computer and computational sciences. This includes techniques such as design of algorithms and data-structures, statistical modeling, mathematical optimization, machine learning, software programming, etc. Exploring this rapidly growing field of computational biology is what I love to do.
 
 ## Reseach Projects
-Some recent projects I have been involved in are described [here](www.bioinfodlsu.com/projects).
+Some of my recent projects are described [in the website of Bioinformatics Lab, DLSU](https://www.bioinfodlsu.com/projects).
 
 ## Software
 You check out some of my software projects at [my Github page](https://github.com/anishmss)
