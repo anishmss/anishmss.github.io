@@ -5,7 +5,7 @@ title: Transpositions
 ---
 2018 – current: Associate Professor, College of Computer Studies, De La Salle University, Manila.
 
-2022 - current: Consultant, International Rice Research Institute 
+2022 - 2024: Bioinformatics consultant, International Rice Research Institute 
 
 2018 – 2020 : Visiting Researcher, Dept. of Computational Biology and Medical Sciences, the University of Tokyo.
 
