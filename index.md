@@ -4,7 +4,7 @@ title: Hello
 permalink: /
 ---
 
-{% include image.html url="/images/profile.jpg" caption="You can tell this photo is old because nobody needs a sweater in the Philippines."  width=200 align="right" %}
+{% include image.html url="/images/profile.jpg" width=200 caption="Yup, that's me!" align="right" %}
 
 I am an associate professor in the College of Computer Studies at De La Salle University Manila.
 I lead the [Bioinformatics Lab](https://www.bioinfodlsu.com), Advanced Research Institute for Informatics, Computing, and Networking (AdRIC), DLSU Manila.
