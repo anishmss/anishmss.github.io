@@ -14,7 +14,7 @@ You check out some of my software projects at [my Github page](https://github.co
 and some at [the lab's Github page](https://github.com/bioinfodlsu).
 
 ## Publications
-Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally: RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci, GigaScience, in press. 
+Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally: RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci, GigaScience, GigaScience 13, giae013 2024. 
 
 Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha: Protein embeddings improve phage-host interaction prediction, PLoS ONE 18(7): e0289030.
 
