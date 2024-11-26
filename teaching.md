@@ -8,8 +8,9 @@ We live in an age where a motivated student can easily access an abundance of ed
 
 ## At DLSU Manila:
 
-- BIOINFO Bioinformatics : Undergrad-level course on bioinformatics.
-- CSC711M/D Bioinformatics: Graduate-level course on bioinformatics.
+- BIOINFO Bioinformatics : Undergraduate-level introductory course on bioinformatics.
+- CSC711M/D Bioinformatics: Graduate-level introductory course on bioinformatics.
+- CCDSTRU Discrete Structures: Introductory freshman undergrad course on discrete mathematics.
 - CCDASLG Data Structures and Algorithms: Introductory undergrad course on data-structures and algorithms.
 - CSALGCM: Algorithm and Complexity : Introductory undergrad course on algorithms and intractability.
 

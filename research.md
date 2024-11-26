@@ -14,11 +14,11 @@ You check out some of my software projects at [my Github page](https://github.co
 and some at [the lab's Github page](https://github.com/bioinfodlsu).
 
 ## Publications
+Kyle Christian L. Santiago and Anish M.S. Shrestha: DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms (presented at GIW XXXI/ISCB-Asia V, Dec 12 – 14, 2022, Tainan, Taiwan), BMC Bioinformatics 25:335 (2024).
+
 Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally: RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci, GigaScience, GigaScience 13, giae013 2024. 
 
 Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha: Protein embeddings improve phage-host interaction prediction, PLoS ONE 18(7): e0289030.
-
-Kyle Christian L. Santiago and Anish M.S. Shrestha: DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms, GIW XXXI/ISCB-Asia V, Dec 12 – 14, 2022, Tainan, Taiwan. (to appear in BMC Supplements (??))
 
 Anish M.S. Shrestha, Joyce Emlyn B. Guiao , Kyle Christian R. Santiago: Assembly-free rapid differential gene expression analysis in non-model organisms using DNA-protein alignment. BMC Genomics 23, 97 (2022).
 
@@ -43,6 +43,9 @@ Anish Man Singh Shrestha, Asahi Takaoka, Satoshi Tayu, Shuichi Ueno: On Two Prob
 Anish Man Singh Shrestha, Satoshi Tayu, Shuichi Ueno: On Orthogonal Ray Graphs, Discrete Applied Mathematics, Vol. 158, pp. 1650-1659, 2010.
 
 ## Presentations, Talks, etc.
+Anish M.S. Shrestha: Looking at very small organisms through the lens of very large language models,
+33rd Annual Meeting of the Philippine Academy of Microbiology 2024.
+
 Franz Stewart V. Dizon, Jennifer Ureta, Anish M.S. Shrestha: Performance of various protein representations for predicting phage-host interaction, 24th Philippine Computing Science Congress 2024.
 
 Anish M.S. Shrestha: Understanding life through enormous pile of sequence data, Philippine Society for Microbiology Cluster 1 Symposium 2024
