@@ -14,6 +14,8 @@ You check out some of my software projects at [my Github page](https://github.co
 and some at [the lab's Github page](https://github.com/bioinfodlsu).
 
 ## Publications
+Mark Edward M. Gonzales, Jennifer C. Ureta, Anish M.S. Shrestha: PHIStruct: Improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings, Bioinformatics, btaf016 (2025).
+
 Kyle Christian L. Santiago and Anish M.S. Shrestha: DNA-protein quasi-mapping for rapid differential gene expression analysis in non-model organisms (presented at GIW XXXI/ISCB-Asia V, Dec 12 – 14, 2022, Tainan, Taiwan), BMC Bioinformatics 25:335 (2024).
 
 Anish M.S. Shrestha, Mark Edward M. Gonzales, Phoebe Clare L. Ong, Pierre Larmande, Hyun-Sook Lee, Ji-Ung Jeung, Ajay Kohli, Dmytro Chebotarov, Ramil P. Mauleon, Jae-Sung Lee, Kenneth L. McNally: RicePilaf: a post-GWAS/QTL dashboard to integrate pangenomic, coexpression, regulatory, epigenomic, ontology, pathway, and text-mining information to provide functional insights into rice QTLs and GWAS loci, GigaScience, GigaScience 13, giae013 2024. 
